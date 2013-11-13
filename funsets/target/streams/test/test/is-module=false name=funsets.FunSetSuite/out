@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[32m- adding ints[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- it should not contain 100[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- Intersection Function[0m[0m
+[0m[[0minfo[0m] [0m[32m- Diff Function[0m[0m
+[0m[[0minfo[0m] [0m[32m- Filter Function[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall function[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists function[0m[0m
+[0m[[0minfo[0m] [0m[32m- map function[0m[0m
